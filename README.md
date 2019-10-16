@@ -1,5 +1,5 @@
 # Hactoberfest2019
-Hacktoberfest Classroom Project 2019
+Hacktoberfest Classroom Project 2019::
 
 ## Instructions
 1. Fork this repository
